@@ -6,7 +6,7 @@
 """
 
 from collections import deque
-from typing import List, Tuple
+from typing import List
 
 
 def dfs_recursive(grid: List[List[int]], row: int, col: int) -> None:
